@@ -14,13 +14,13 @@
         <th><p align="center">
            <img src="/Traffic_Signs/img/IMAGE1.png" width="30%" height="30%"></a>
            <br>P2: Traffic Signs
-           <br><a href="./project_2_traffic_sign_classifier">(code)</a>
+           <br><a href="./Traffic_Signs">(code)</a>
         </p>
     </th>
        <th><p align="center">
            <img src="/Behavioral_Cloning/videos/behavioral.gif" width="140%" height="90%"></a>
            <br>P3: Behavioral Cloning
-           <br><a href="./behavioral_cloning">(code)</a>
+           <br><a href="./Behavioral_Cloning">(code)</a>
         </p>
     </th>
    </tr>
