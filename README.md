@@ -6,7 +6,7 @@
   <tr>
     <th>
       <p align="center">
-           <img src="/basic_lane_finding/img/test_image.jpg" width="20%" height="20%"></a>
+           <img src="/basic_lane_finding/img/test_image.jpg" width="65%" height="75%"></a>
            <br>P1: Basic Lane Finding
            <br><a href="./basic_lane_finding" >(code)</a>
       </p>
@@ -18,7 +18,7 @@
         </p>
     </th>
        <th><p align="center">
-           <img src="/Behavioral_Cloning/videos/behavioral.gif" width="110%" height="90%"></a>
+           <img src="/Behavioral_Cloning/videos/behavioral.gif" width="140%" height="90%"></a>
            <br>P3: Behavioral Cloning
            <br><a href="./behavioral_cloning">(code)</a>
         </p>
